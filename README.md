@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Batra</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src”https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3H8VxFD1X5Fr0q__KGoDr-&ust=1672051624193000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDo1u3LlPwCFQAAAAAdAAAAABAE![image](https://user-images.githubusercontent.com/103514774/209465387-776da0b6-214d-4126-a327-5421ba20e197.png)
-”>
+<img align=“right” alt=“coding” width=“400” src”https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitbatra&label=Profile%20views&color=0e75b6&style=flat" alt="gitbatra" /> </p>
